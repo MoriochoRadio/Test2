@@ -29,3 +29,10 @@
 블록:<div align="center">
   $$E = mc^2$$
 </div>
+
+
+1. git pull
+2. git add 파일이름
+3. git commit -m "메모"
+4. git push
+
