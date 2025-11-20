@@ -36,3 +36,5 @@
 3. git commit -m "메모"
 4. git push
 
+* 집에 가고 싶다
+
